@@ -1,4 +1,4 @@
-remote_theme: daattali/beautiful-jekyll
+remote_theme: daattali/beautiful-jekyllv1.0.13
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Chris Edwards
